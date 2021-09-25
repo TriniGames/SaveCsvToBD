@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveCsvToBD", "SaveCsvToBD\SaveCsvToBD.csproj", "{1C7FEB78-E7C9-4EE9-ADD5-E34ABE2E139C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7FEB78-E7C9-4EE9-ADD5-E34ABE2E139C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7FEB78-E7C9-4EE9-ADD5-E34ABE2E139C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7FEB78-E7C9-4EE9-ADD5-E34ABE2E139C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7FEB78-E7C9-4EE9-ADD5-E34ABE2E139C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74A86BD-8C17-4281-96EB-169B11338A59}
+	EndGlobalSection
+EndGlobal
